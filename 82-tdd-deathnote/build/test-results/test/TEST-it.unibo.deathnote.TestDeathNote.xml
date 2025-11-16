@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unibo.deathnote.TestDeathNote" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-16T17:00:30.937Z" hostname="Mac.Home" time="6.227">
+  <properties/>
+  <testcase name="testCauseWritten()" classname="it.unibo.deathnote.TestDeathNote" time="0.116"/>
+  <testcase name="testNoRuleEmpty()" classname="it.unibo.deathnote.TestDeathNote" time="0.002"/>
+  <testcase name="testRulesExceptions()" classname="it.unibo.deathnote.TestDeathNote" time="0.0"/>
+  <testcase name="testHumanDied()" classname="it.unibo.deathnote.TestDeathNote" time="0.001"/>
+  <testcase name="testDetails()" classname="it.unibo.deathnote.TestDeathNote" time="6.107"/>
+  <system-out><![CDATA[there's no name in the deathnote No name written
+ERRORE: Invalid rule number
+ERRORE: Invalid rule number
+There is no name in the deathnote No name written
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

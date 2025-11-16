@@ -40,6 +40,7 @@ public class MiniGUI {
         panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
         canvas.add(panel,BorderLayout.CENTER);
         panel.add(write);
+        
         final JTextField result = new JTextField();
         canvas.add(result,BorderLayout.NORTH);
         frame.setContentPane(canvas);
